@@ -1,0 +1,89 @@
+.carousel {
+  height: 400px;
+  margin: 41px 105px 0 105px;
+}
+
+.arrows_container {
+  display: flex;
+  float: right;
+  margin: 80px 50px;
+}
+
+.filter {
+  display: flex;
+  margin: 112px 0 0 107px;
+}
+
+.card {
+  display: inline-block;
+  width: 270px;
+  height: 340px;
+}
+
+.card__title {
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 30px;
+  margin: 0;
+  width: 260px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.card__category {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 10px;
+}
+
+.card__text {
+  font-family: 'Inter';
+  font-style: normal;
+  display: flex;
+  align-items: left;
+  margin-left: 5px;
+}
+
+.card__img {
+  width: 100%;
+  height: 236.51px;
+  object-fit: cover;
+  background: #fff url('../../../public/vino-1.png') fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.card__links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card__link {
+  display: inline-block;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.checkbox__button {
+  box-sizing: border-box;
+  appearance: none;
+  background: white;
+  width: 16px;
+  height: 16px;
+  background: #aeadad;
+  border: 2px solid #fff;
+  border-radius: 2px;
+}
+
+.checkbox__button:checked {
+  background-color: #690b0b;
+}
+
+.checkbox__label {
+  display: inline-flex;
+}

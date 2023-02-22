@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Primitivo Puglia",
+    "type": "semi-dry"
+  },
+  {
+    "id": "2",
+    "name": "Borgo Reale Montepulciano D'Abruzzo",
+    "type": "dry"
+  },
+  {
+    "id": "3",
+    "name": "Cantina Giuliano Toscano Rosso In Campagna",
+    "type": "dry"
+  },
+  {
+    "id": "4",
+    "name": "Cantina Giuliano Chianti",
+    "type": "dry"
+  },
+  {
+    "id": "5",
+    "name": "Cantina Giuliano Costa Toscana Red",
+    "type": "dry"
+  },
+  {
+    "id": "6",
+    "name": "Epokale 2013 – Cantina Tramin",
+    "type": "sweet"
+  },
+  {
+    "id": "7",
+    "name": "Primitivo di Manduria Dolce Naturale ‘Es Più Sole’ 2017",
+    "type": "sweet"
+  }
+]
