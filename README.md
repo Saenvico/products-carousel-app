@@ -1,4 +1,4 @@
-# Completedm test task
+# Completed test task
 
 You need to implement the wine slider with filters using the design and data from json. 
 
